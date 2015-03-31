@@ -1,0 +1,3 @@
+Mejor camino: 7 2 1 
+Tiempo: 20
+Mugre: 750.0

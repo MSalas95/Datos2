@@ -1,0 +1,10 @@
+1.0/Margarita/Caracas/00:00
+2.0/Caracas/Margarita/06:00
+3.0/Margarita/Maturin/02:00
+4.0/Maturin/Margarita/08:00
+5.0/Caracas/Maturin/04:00
+6.0/Maturin/Caracas/10:00
+7.0/Maracaibo/Caracas/06:00
+8.0/Caracas/Maracaibo/12:00
+9.0/Margarita/Maracaibo/08:00
+10.0/Maracaibo/Margarita/14:00
